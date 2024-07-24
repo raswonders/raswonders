@@ -2,4 +2,4 @@
 
 **A Web Developer** & **Go-To Pal** for all things frontend
   - 🔨 daily using  *html* + *css* + *typescript* + *react*
-  - 📐 building in  *vite* / *next.js* / *astro*
+  - 📐 building in  *vite* / *next.js*
